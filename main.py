@@ -1,2 +1,2 @@
-print("mohamed Tamer")
-print("Welcome The app")
+x = input("Welcome Enter the name: ")
+print(f"hi {x}")
